@@ -19,6 +19,5 @@ A simple job portal built on React with Server Side Support!
 - React Router
 - Redux
 - Styled Components
-- Jest
 
 **Thanks for the Opportunity!**
